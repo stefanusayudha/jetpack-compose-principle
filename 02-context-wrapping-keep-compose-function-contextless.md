@@ -3,6 +3,7 @@ Context Wrapping secara general adalah mekanisme untuk merubah perilaku dari sua
 Sebuah object bisa memiliki sebuah perilaku identitas atau memiliki perilaku khusus pada konteks tertentu.
 
 Mekanisme Context Wrapping sangat disarankan untuk menjaga suatu objek tetap murni pada level abstraksi paling dasar.
+Mekanisme Context Wrapping adalah metode alternative dari Context Provider.
 
 e.g:
 ```kotlin
