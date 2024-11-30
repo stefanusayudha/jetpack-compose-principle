@@ -34,11 +34,26 @@ fun Widget(
      ...
    )
    ```
-2. **Centralized Control**.
+2. **Menghindari parsing argument yang berlebihan**.
+   Sangat disarankan untuk menghindari argument parsing yang berlebihan. Composable function bisa jadi sangat kompleks tergantung pada level dari component tersebut. Untuk komponent dengan level molekuler mungkin masih disarankan untuk melakukan argument parsing satu-persatu. Akan tetapi untuk komponent se level Organisme, Screen atau Template mungkin anda perlu melakukan parsing argument yang sangat banyak.
+   e.g:
+   ```kotlin
+   @Composable
+   fun SomeComponent(
+     argument1: String,
+     argument2: String,
+     argument3: String,
+     argument4: String,
+     argument5: String,
+   ...
+   )
+   ```
+4. **Centralized Control**.
    Melakukan state agregation memungkinkan kita untuk memusatkan tanggung jawab kontrol state ke pada satu objek - dan atau ke satu tempat -
    serta membuat sumber kebenaran tunggal untuk seluruh kejadian pada composable function.
-
    Menempatkan kontrol state ke satu tempat akan memberikan kemudahan dalam pengujian, dan memusatkan kompleksitas logic di satu tempat.
+
+   
    
 
 ## Concern
