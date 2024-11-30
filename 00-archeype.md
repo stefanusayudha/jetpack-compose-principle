@@ -5,7 +5,6 @@ Menurut saya, memahami Archetype adalah level lanjutan dari FrontEnd programming
 Bahasa pemrogramman bukan hanya sebuah alat untuk menulis kode di komputer dan melakukan hal-hal keren melainkan adalah sebuah alat berkomunikasi.
 Setiap bahasa dan framework memiliki desain, dan desain itu dipengaruhi oleh sebuah budaya. Dengan memahami budaya didalamnya anda akan mengerti seberapa indah ini sebenarnya.
 
-# Note
 Archetype bukanlah tentang preferensi, dan kategori artikel ini juga bukan ditujukan untuk memberikan saran atau sudut pandang preferensi.
 Archetype adalah pola-pola dasar yang disadari oleh individu secara komunal, pada alam bawah sadar mereka.
 Mirip seperti pintu sebelah kiri harusnya didorong bukan ditarik, sepintas itu seperti menunjukkan preferensi.
