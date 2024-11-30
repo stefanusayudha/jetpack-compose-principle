@@ -43,6 +43,8 @@ Pada panggung pertunjukan konvensional, hal ini jarang ada. Namun ada kalanya pe
 Pada panggung virtual, kita sering disajikan alat navigasi untuk memilih apa yang ingin kita lihat.
 Saya suka panggung konvensional dimana navigasi berada disebelah kiri layar it feels very convenience walaupun sedikit terasa jauh dari tangan jika menggunakan handphone.
 
+Hal yang saya kurang setuju adalah ketika kita berpindah panggung saat berpindah Scene. Menurut saya itu hal yang kurang wajar, terutama jika Scene masih dalam 1 aktivitas. Hal ini sering saya temui dalam desain sebuah software. Dimana setiap navigasi membawa kita ke panggung (scaffold) yang berbeda.
+
 ## Channel
 Channel adalah suatu perkembangan dalam pertunjukan visual yang sangat keren menurut saya.
 Di dunia pertunjukan virtual kini, kadang kita diberikan opsi untuk memilih kemungkinan yang kita inginkan.
