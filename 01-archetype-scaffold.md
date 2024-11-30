@@ -51,7 +51,7 @@ Misal pada dashboard sering terdapat bottom bar berisi icon-icon yang memberikan
 Terkadang ada juga channel yang berupa konsekuensional. Misal sebuah skenario akan memicu dua kejadian atau lebih yang tidak bisa dicegah yang biasanya disajikan dalam bentuk tab navigation.
 
 # Note
-Archetype bukanlah tentang preferensi, dan artikel ini juga bukan ditujukan untuk memberikan saran atau sudut pandang preferensi.
+Archetype bukanlah tentang preferensi, dan kategori artikel ini juga bukan ditujukan untuk memberikan saran atau sudut pandang preferensi.
 Archetype adalah pola-pola dasar yang disadari oleh individu secara komunal, pada alam bawah sadar mereka.
 Mirip seperti pintu sebelah kiri harusnya didorong bukan ditarik, sepintas itu seperti menunjukkan preferensi.
 Namun yang sebenarnya ingin ditunjukkan dari artikel ini adalah pola-pola dasar yang dipahami oleh sekumpulan orang pada konteks budaya tertentu.
