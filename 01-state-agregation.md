@@ -57,7 +57,7 @@ fun Widget(
    
 
 ## Concern
-1. Anda mungkin memiliki concern bahwa itu mungkin akan mentriger rekomposisi ketika state pusat berubah maka semua akan di rekomposisi. Atau anda mungkin bertanya bagaimana menghindari rekomposisi?
+1. Anda mungkin memiliki concern bahwa itu mungkin akan mentriger rekomposisi ketika state pusat berubah maka semua akan direkomposisi. Atau anda mungkin bertanya bagaimana menghindari rekomposisi?
 
    Jawab: Rekomposisi tidak sepenuhnya relevan dengan mekanisme Agregasi State, melainkan pada stability type.
    Jetpack compose tidak melihat bagaimana state akan di kirimkan kepadanya untuk melakukan rekomposisi, melainkan bagaimana karakteristik stabilitas dari argument tersebut.
