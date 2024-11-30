@@ -53,7 +53,7 @@ fun Widget(
    Misalnya; umumnya semua objek yang di import dari Java library akan diperlakukan sebagai unstable state.
 2. Apakah harus menggunakan data class dan immutable state?
 
-   Jawabannya adalah tergantung kebutuhan anda. Anda bisa menggunakan simple class sebagai Record atau data class jika anda memerlukan api dari data class seperi copy dan lain-lain.
+   Jawabannya adalah tergantung kebutuhan anda. Anda bisa menggunakan simple class sebagai Record atau Model atau data class jika anda memerlukan api dari data class seperi copy dan lain-lain.
 
 ## Catch
 1. -
