@@ -66,7 +66,9 @@ fun Widget(
    Stabilitas dalam jetpack compose mencakup : Never Equal ("!="), Structural Equal ("=="), dan Referential Equal ("===").
    Jika konsern anda adalah tentang rekomposisi maka anda perlu memperhatikan bagaimana ciri-ciri dari property yang anda kirimkan dan bagaimana anda memproduksinya.
    Misalnya; umumnya semua objek yang di import dari Java library akan diperlakukan sebagai unstable state.
-2. Apakah harus menggunakan data class dan immutable state?
+
+   Read: [Stability in Compose](https://developer.android.com/develop/ui/compose/performance/stability#:~:text=Compose%20considers%20types%20to%20be,value%20has%20changed%20between%20recompositions.)
+3. Apakah harus menggunakan data class dan immutable state?
 
    Jawabannya adalah tergantung kebutuhan anda. Anda bisa menggunakan simple class sebagai Record atau Model atau data class jika anda memerlukan api dari data class seperi copy dan lain-lain.
 
